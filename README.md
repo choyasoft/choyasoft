@@ -4,8 +4,8 @@
 <img src="https://i.ibb.co/1JmF1rZ/1500x500.jpg">
 
 ## About me
-- 💻 Currently working as CSU Helpdesk.
-- ⚡ CSU trying to be a real programmer.
+- 💻 Currently working as IT department manager.
+- ⚡ I wish someday I'll work as a developer.
 - 🤖 Currently learning Android-Kotlin.
 - 👯 Looking to collaborate on small Kotlin projects to keep learning.
 - 📚 Looking for help to learn much more.
